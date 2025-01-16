@@ -18,8 +18,17 @@
 
   <p align="left"></p>
   
-  <h5>Let's connect :) </h5>
+  <h5>Контакты :) </h5>
   
- <h5><a href="https://stanceray.com/">stanceray.com<a/></h5>
- <h5><a href="https://www.linkedin.com/in/stancillous//">linkedin</a></h5>
- <h5><a href="mailto:stancillousray@gmail.com">stancillousray@gmail.com</a></h5>
+<div id="badges">
+ 
+<a href="https://t.me/Ugly_999">
+    <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
