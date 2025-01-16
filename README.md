@@ -8,7 +8,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lonelyy228&style=flat" alt="lonelyy228&color=ff69b4" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lonelyy228&style=flat&color=ff69b4" alt="lonelyy228" /> </p>
 
 <h6> Check out my latest project. <a href="https://spotifyinsights.me/">spotify connected app</a> A web app that shows personalized spotify data: top tracks, top artists, recent tracks, info about your public and private playlists. Get recommendations and discover new artists. </h6>
 
