@@ -1,7 +1,7 @@
 <!-- ![Masterhead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif) -->
 
 <h2 align="left">Привет👋 Меня зовут Расул Шаимов. </h2>
-<h5 align="left">I build things for the web</h5>
+<h5 align="left">Я создаю что-то для Интернета</h5>
 
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="coding gif" /> 
 
