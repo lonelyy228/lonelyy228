@@ -1,6 +1,5 @@
 <div id="header" align="center">
-  <img src="![68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313035393538332f73637265656e73686f74732f343137313336372f636f64696e672d667265616b2e676966](https://github.com/user-attachments/assets/683c2dae-cb73-4123-96a8-0357cd57c943)
-" width="100"/>
+  <img src="gfh.gif" width="100"/>
 </div>
 
 
