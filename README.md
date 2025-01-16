@@ -14,7 +14,7 @@
 
 
 
-<p align="left"> <a target="_blank" href="https://github.com/lonelyy228" target="blank"><img src="https://img.shields.io/github/followers/stancillous?label=FOLLOW%20lonelyy228&logo=github&style=for-the-badge" alt="lonelyy228/></a> </p>
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 
   <p align="left"></p>
   
